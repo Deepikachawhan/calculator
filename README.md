@@ -31,13 +31,6 @@ Check it out live here: [🌐 View Live Calculator](https://deepikachawhan.githu
 
 ## 📁 Folder Structure
 ```plaintext
-/ai-chatbot-project
-│── index.html      # Main HTML file
-│── style.css       # CSS file for styling
-│── script.js       # JavaScript file for chatbot logic
-└── README.md       # Documentation file (optional)
-```
-```plaintext
 calculator/
 ├── index.html
 ├── style.css
