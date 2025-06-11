@@ -7,7 +7,6 @@ A clean, intuitive, and responsive calculator built using **HTML**, **CSS**, and
 ## 🚀 Live Demo
 
 Check it out live here: [🌐 View Live Calculator](https://deepikachawhan.github.io/calculator/)  
-(*Make sure GitHub Pages is enabled in the repo settings!*)
 
 ---
 
