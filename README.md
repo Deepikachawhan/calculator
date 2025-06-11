@@ -30,16 +30,6 @@ Check it out live here: [🌐 View Live Calculator](https://deepikachawhan.githu
 
 ---
 
-## 📸 Screenshots
-
-| Desktop View | Mobile View |
-|--------------|-------------|
-| ![Desktop](https://via.placeholder.com/300x200?text=Desktop+Calculator) | ![Mobile](https://via.placeholder.com/150x300?text=Mobile+View) |
-
-*(You can add your own screenshots instead of placeholders.)*
-
----
-
 ## 📁 Folder Structure
 
 calculator/
@@ -65,12 +55,6 @@ calculator/
 - Advanced operations (%, √, ^, etc.)
 - History panel for previous calculations
 - Better keyboard input support
-
----
-
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
