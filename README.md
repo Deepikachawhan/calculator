@@ -1,6 +1,5 @@
 # 🔢 Simple Calculator Web App
-
-![Calculator Preview](https://img.shields.io/badge/HTML-CSS-JavaScript-blue?style=flat-square)  
+ 
 A clean, intuitive, and responsive calculator built using **HTML**, **CSS**, and **JavaScript**. This project is perfect for beginners looking to understand how real-world calculators work in the browser.
 
 ---
@@ -36,7 +35,6 @@ calculator/
 ├── index.html
 ├── style.css
 └── script.js
-
 
 ---
 
